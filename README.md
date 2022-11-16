@@ -6,7 +6,7 @@
 - View, add, delete, edit movie theater information.
 - Order management.
 - View, delete customer information but not have the right to change that information.
-- Logout
+- Logout <br>
 •	Client:
   Guest:
   - Unknown website visitors.
