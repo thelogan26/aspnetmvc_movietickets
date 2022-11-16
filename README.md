@@ -7,13 +7,12 @@ Administrators
 - Order management.
 - View, delete customer information but not have the right to change that information.
 - Logout <br>
-Client: <br>
 Guest:<br>
 - Unknown website visitors.
 - View movie information and related information.
 - Sign up for an account
-- Login to the website.
-User:<br>
+- Login to the website.<br>
+User:
 - Already have an account.
 - Login to the website.
 - View movie information and related information.
