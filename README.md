@@ -21,5 +21,9 @@
 - Logout
 ### Database:
 ![image](https://user-images.githubusercontent.com/91320228/202116130-f50e1d2c-f6a0-4c53-8c81-221c62edb2b7.png)
-### Homepage
+### Homepage:
 ![image](https://user-images.githubusercontent.com/91320228/202116345-802affaf-a9d4-439d-8189-fc698beaad10.png)
+#### Form Movie:
+![image](https://user-images.githubusercontent.com/91320228/202117324-7fc65a0a-1cf0-4cf1-bac7-092fa3c62718.png)
+#### Actor Management:
+![image](https://user-images.githubusercontent.com/91320228/202117535-0145ff5c-f333-4fe3-b8a9-668af99198da.png)
